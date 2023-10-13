@@ -1,0 +1,5 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="graphView_width">325dp</dimen>
+    <dimen name="graphView_height">325dp</dimen>
+</resources>
